@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.component{
+  width: 100%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Zen Dots', cursive;
+}
